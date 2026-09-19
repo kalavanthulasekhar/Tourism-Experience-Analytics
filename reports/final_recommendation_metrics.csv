@@ -1,0 +1,5 @@
+Model,Hit_Rate@5,Precision@5,Collaborative_Weight,Content_Weight,Popularity_Weight
+Hybrid,0.55092,0.110184,0.7,0.2,0.1
+Collaborative,0.537434,0.122511,1.0,0.0,0.0
+Popularity,0.391858,0.078372,0.0,0.0,1.0
+Content-Based,0.125844,0.025169,0.0,1.0,0.0
