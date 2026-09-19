@@ -13,6 +13,18 @@
 
 Tourism Experience Analytics is an end-to-end data science project that transforms tourism transaction data into practical insights and predictive experiences. It combines data integration, exploratory analysis, supervised machine learning, recommendation algorithms, SQL analytics, and an interactive Streamlit application in one workflow.
 
+## 🚀 Live Demo
+
+**Try the deployed application:**  
+👉 **[Tourism Experience Analytics – Live Demo](https://tourism-experience-analytics-8y1x.onrender.com)**
+
+The deployed application provides:
+
+- 📊 Tourism analytics dashboard
+- 🤖 Visit mode prediction
+- ⭐ Attraction rating prediction
+- 🎯 Personalized attraction recommendations
+
 ## Project highlights
 
 | Capability | What it does |
